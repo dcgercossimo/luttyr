@@ -52,7 +52,7 @@
 }
 
 .description {
-  margin: 4rem 0;
+  margin: 1rem 0;
   line-height: 1.5;
   font-size: 1.5rem;
   max-width: 1000px;
@@ -108,6 +108,12 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.centered {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 @media (max-width: 600px) {
